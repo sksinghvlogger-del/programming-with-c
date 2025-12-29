@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Sneha Mishra-11375\n");
+    printf("Shivam Raj-11375\n");
     int num, a, b, c, choice;
     float x, y;
     printf("Enter a number: ");
