@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-     printf("Sneha Mishra-11375\n");
+     printf("Shivam Raj-11375\n");
     int a, x, y; float b; char c; double d;   
     printf("Enter an integer: ");
     scanf("%d", &a);
@@ -26,3 +26,4 @@ int main() {
     printf("y = %d\n", y);
     return 0;
 }
+
